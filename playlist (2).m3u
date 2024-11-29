@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/logo.png" group-title="Entertainment",Channel Name
-http://channel-url.com/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png" group-title="ggg",nnn
+http://103.96.235.18:8080/bd-tsports/index.m3u8
