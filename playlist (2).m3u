@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png" group-title="ggg",nnn
+#EXTINF:-1 tvg-id="" tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png" group-title="ggg",Star Sports
 http://103.96.235.18:8080/bd-tsports/index.m3u8
