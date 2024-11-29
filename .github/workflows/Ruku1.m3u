@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Hd Tv
+#EXTINF:-1,T Sports
 #EXTGRP:Sports
 http://103.96.235.18:8080/sports1/index.m3u8
+#EXTINF:-1,Ster Sports
+#EXTGRP:Sports
+http://103.96.235.18:8080/bd-tsports/index.m3u8
